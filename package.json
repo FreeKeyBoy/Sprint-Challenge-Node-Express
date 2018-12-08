@@ -2,6 +2,10 @@
   "name": "Sprint-Challenge-Node-Express",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
   "repository": "https://github.com/FreeKeyBoy/Sprint-Challenge-Node-Exp",
   "author": "Freekeyboy <jjhutton81@gmail.com>",
   "license": "MIT",
