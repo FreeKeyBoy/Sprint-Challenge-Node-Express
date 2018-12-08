@@ -1,0 +1,15 @@
+{
+  "name": "Sprint-Challenge-Node-Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FreeKeyBoy/Sprint-Challenge-Node-Exp",
+  "author": "Freekeyboy <jjhutton81@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "knex": "^0.15.2",
+    "nodemon": "^1.18.7",
+    "sqlite3": "^4.0.4"
+  }
+}
